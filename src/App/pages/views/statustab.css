@@ -1,0 +1,8 @@
+.statusBody {
+  /*max-width: 460px;*/
+  margin: 2rem;
+}
+
+.card-body {
+  padding: var(--bs-card-spacer-y) 0 !important;
+}

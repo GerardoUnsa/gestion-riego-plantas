@@ -1,0 +1,8 @@
+a.nav-link i {
+  font-size: 25px;
+}
+
+.icon-highlighted {
+  color: rgb(240, 245, 250) !important;
+  background-color: #7b8ab8 !important;
+}
